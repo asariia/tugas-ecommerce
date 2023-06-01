@@ -1,2 +1,2 @@
-# tugas-ecommerce
-Tugas ecommerce sederhana kelompok L1 django
+# ecommerce-django-project
+Belajar membuat ecommerce website dengan menggunaakan django dan python
