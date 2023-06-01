@@ -1,2 +1,2 @@
 # tugas-ecommerce
-Tugas ecommerce django
+Tugas ecommerce sederhana kelompok L1 django
